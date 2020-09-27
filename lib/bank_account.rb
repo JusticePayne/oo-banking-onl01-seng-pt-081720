@@ -1,3 +1,3 @@
 class BankAccount
   
-end
+  attr_accessor :name
